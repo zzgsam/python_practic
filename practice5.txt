@@ -1,0 +1,6 @@
+c and h file:
+asdsa.cb.cbaaaa.h
+py and pyc file:
+a.pybaaaa1.pyc
+pl and pm file:
+lp.pl
